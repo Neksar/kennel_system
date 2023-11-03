@@ -11,20 +11,12 @@
 ослы, а затем объединить их. Просмотреть содержимое созданного файла.
 Переименовать файл, дав ему новое имя (Друзья человека).
 
-![Task1] (https://github.com/Neksar/kennel_system/blob/main/1.png)
-
 2. Создать директорию, переместить файл туда.
-
-![Task2] (https://github.com/Neksar/kennel_system/blob/main/2.png)
 
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
 из этого репозитория.
 
-![Task3] (https://github.com/Neksar/kennel_system/blob/main/3.png)
-
 4. Установить и удалить deb-пакет с помощью dpkg.
-
-![Task4] (https://github.com/Neksar/kennel_system/blob/main/4.png)
 
 5. Выложить историю команд в терминале ubuntu
 
