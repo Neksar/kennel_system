@@ -26,9 +26,7 @@
 
 ![Task4](https://github.com/Neksar/kennel_system/blob/main/4.png)
 
-5. Выложить историю команд в терминале ubuntu
-
-![Task5](https://github.com/Neksar/kennel_system/blob/main/HistoryCommandsUbuntuTerminal.md)
+5. Выложить [историю команд](https://github.com/Neksar/kennel_system/blob/main/HistoryCommandsUbuntuTerminal.md) в терминале ubuntu
 
 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
